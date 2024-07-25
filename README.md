@@ -4,7 +4,7 @@ My name is Bastian, and I am 15 years old. I am interested in technology, softwa
 ## My Skills / Learning currently
 
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/de/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
 [![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com/)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/)
 
