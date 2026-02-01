@@ -8,8 +8,7 @@ I like experimenting with Linux and find computers really exciting.
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
 [![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/)
-[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/de-de/dotnet/csharp/)
+
 
 
 
