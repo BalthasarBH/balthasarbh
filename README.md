@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Bastian, and I am 16 years old. I am interested in technology, software and programming languages like Python and Java.
+My name is Bastian, and I am 17 years old. I am interested in technology, software and programming languages like Python and Java.
 I like experimenting with Linux and find computers really exciting.
 
 
